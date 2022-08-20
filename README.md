@@ -1,6 +1,7 @@
 - 👋 Hi, I’m JosephThuku
-- 👀 I’m interested in ...python,java,sql
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in ...python,java,AI
+- 🌱 I’m currently learning Python, C,
+-  🌱 im currently a student at alx africa lerning fullstak software engneering
 - 💞️ I’m looking to collaborate on ...python projects
 - 📫 How to reach me ...jthuku490@gmail.com
 -  i'm current a student in Mount Kenya university.doing  BscIT
