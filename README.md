@@ -1,57 +1,39 @@
-<!---     Header Image   --->
-<div class="header-image">
-    <img src="http://propulsive.in/assets/img/service-icon/web.gif" width="100%" />
-</div>
-  <br>
-<!---     Repo Icon   --->
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" style="width: 150px; height: 100px" />
-</div>
-  <br>
-<div id="badges" align="center">
-    <!---     Badges   --->
-    <!---     LinkedIn   --->
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/joseph-thuku-01898b208/)">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <!---     Youtube   --->
-    <a href="your-youtube-URL">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
-    <!---     Twitter   --->
-    <a href="https://twitter.com/Mrjt53863617">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-    </a>
-</div>
-  <br>
-<!---     Streaks Widget   --->
-<div class="streaks" align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=falconbolt&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</div>
-<br>
-<!---     Container   --->
-<div>
-    <!---     Statistics   --->
-    <div class="grid-row1" " align="center">
-        <!---     Languages by repo   --->
-                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=falconbolt&theme=2077" /> &nbsp;&nbsp;&nbsp;&nbsp;
-               <!---     Languages by Commit   --->
-       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falconbolt&theme=2077"/>
-           </div>
-                                                                                                                              <br>
-                                                                                                                            
-  <div class="grid-row2" align="center">
-        <!---     Stats   --->
-                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=falconbolt&theme=2077" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <!---     Commits   --->
-                   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=falconbolt&theme=2077&utcOffset=8" />
-           </div> 
-                   </div>
+## Hello there, I'm Joe Thuku
+<p align="center"> 
+  my visitors<br>
+  <img src="https://profile-counter.glitch.me/JosephThuku/count.svg" />
+</p>
+
+- 🔭 I’m currently a Web3 Software developer at [UTU](utu.io) and previously [ABC](https://theafricablockchaincenter.com/) & [Powwater](powwater.com) building projects using React.js, React-Native and Node.js amd focusing on blockchain technical writing.
+- 🌱 I’m currently learning how to build scalable smart contracts on Ethereum blockchain using Solidity at [Web3Bridge](https://www.web3bridge.com/)
+- 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, Ruby on Rails, React.js, HTML5, CSS3, Bootstrap and React-Native.
+- 🤔 I’m looking for help with proper building of APIs, Jamstack, TailwindCSS and getting started with smart contract development on networks like [Ethereum](https://ethereum.org/en/), [BSC](https://www.binance.org/en), [ChainLink](https://chain.link/), [Stacks](https://www.stacks.co/), [Solana](https://solana.com/), [Celo](https://celo.org/), contributions on [Gitcoin](https://gitcoin.co/) and participation in different blockchain hackathons.
+- 💬 Ask me about Full-stack Web Development, Technical Writing, Javascript and tech related ideas especially if you want to get started or still a newbie.
+- 📫 How to reach me: sharonkosgei4@gmail.com | [check my hashnode blog](https://jebitok.hashnode.dev/) | [Linktree](https://linktr.ee/SharonJebitok)
+- 😄 Pronouns: her/she
+- ⚡ Fun fact: I support **African music to the World**
+ : my background is Agribusiness🎓 but learnt that I can be a developer without a CS degree 
+ 
+ [![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats) 
+ <!--
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31li24rfgshtlulhsx2bilctnuv4&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
  
 
+**jebitok-dev/Jebitok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-<!---
-falconbolt/falconbolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Here are some of my past projects done during HNG Intership:
+- https://spotonsound.netlify.app/ 
+- https://dealrestaurant.netlify.app/
+- https://barbershop-landing-page-jl.netlify.app/
+-->
