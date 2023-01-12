@@ -18,5 +18,5 @@
 - 😄 Pronouns: He/Him
  
  
- [![Joe Thuku's github stats](https://github-readme-stats.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)](https://github.com/JosephThuku/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephThuku&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephThuku&show_icons=true&theme=black&layout=compact)]
+ [![Joe Thuku's github stats](https://github-readme-stats.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephThuku&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephThuku&show_icons=true&theme=black&layout=compact)]
  
