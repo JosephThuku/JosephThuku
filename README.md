@@ -19,5 +19,4 @@
  
  
  
-[![Joe Thuku's github Stats](https://PUT_1.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephThuku&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephThuku&show_icons=true&theme=black&layout=compact)]
- 
+[![Sharon Jebitok's github stats](https://github-readme-stats.vercel.app/api?username=jebitok-dev&show_icons=true&theme=black)](https://github.com/jebitok-dev/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jebitok-dev&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jebitok-dev&show_icons=true&theme=black&layout=compact)](https://github.com/jebitok-dev/github-readme-stats) 
