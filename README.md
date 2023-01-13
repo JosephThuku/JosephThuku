@@ -1,4 +1,9 @@
 
+<h1 align="center"> <a href="https://github.com/JosephThuku"><img width=7% height=15% src="static/Hi.gif"/></a> Hy there...i go by the name JoeThuku...⚡ I am a...
+   <a href="https://github.com/JosephThuku">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Junior+Back-End+Developer;Artificial+Intelligence+Enthusiast;Technical+Blogger;Information+Tech.+student" />
+   </a>
+</h1>
 <p align="center"> 
   my visitors<br>
   <img src="https://profile-counter.glitch.me/JosephThuku/count.svg" />
