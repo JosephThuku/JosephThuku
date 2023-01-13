@@ -19,5 +19,5 @@
  
  
  
-[![Joe Thuku's github Stats](https://github-readme-stats.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephThuku&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephThuku&show_icons=true&theme=black&layout=compact)]
+[![Joe Thuku's github Stats](https://PUT_1.vercel.app/api?username=JosephThuku&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephThuku&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephThuku&show_icons=true&theme=black&layout=compact)]
  
