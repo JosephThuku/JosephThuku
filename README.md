@@ -9,7 +9,7 @@
   <img src="https://profile-counter.glitch.me/JosephThuku/count.svg" />
 </p>
 
-- 🔭 I’m currently looking for junior backend software engineer job.
+- 🔭 I’m currently looking for junior backend software engineer job/ internship.
 - 🌱 I’m currently learning Fulstack Software Engineeering at ALX_Africa
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Python, PHP, Django, React.js, HTML5, CSS3, Bootstrap and React-Native.
 - 🤔 I’m looking for help with proper building of APIs,logs, Getting started with backend development and getting started with Artificial Inteligent  contributions on opensource.
