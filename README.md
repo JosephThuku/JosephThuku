@@ -9,8 +9,8 @@
   <img src="https://profile-counter.glitch.me/JosephThuku/count.svg" />
 </p>
 
-- 🔭 I’m currently looking for software engineer job/ DevOps.
-- 💬 Ask me about Backend Development, Django, Python, Cybersecurity and tech related ideas.
+- 🔭 I’m currently looking for software engineer /DevOps job.
+- 💬 Ask me about Backend Development,blockchain, devops, Cybersecurity and other tech related ideas.
 - 🏍 How to reach me: jthuku490@gmail.com 
 - [check my portifolio](https://joethuku.vercel.app/about "Joe Thuku") 
   
