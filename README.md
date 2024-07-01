@@ -1,7 +1,7 @@
 
 <h1 align="center"> <a href="https://github.com/JosephThuku"><img width=7% height=15% src="static/Hi.gif"/></a> Hy there...I'm JoeThuku...⚡ I am a...
    <a href="https://github.com/JosephThuku">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Back-End+Developer;Artificial+Intelligence+Enthusiast;Technical+Blogger;DevOps+Engineer" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Back-End+Developer;BlockChain+Developer;Artificial+Intelligence+Enthusiast;Technical+Blogger;DevOps+Engineer" />
    </a>
 </h1>
 <p align="center"> 
