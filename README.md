@@ -62,16 +62,12 @@
   </a>
 </p>
 
-## 🌟 Featured Projects
+## ✍️ Latest Blog Posts
 
-<p align="center">
-  <a href="https://github.com/JosephThuku/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosephThuku&repo=Project1&theme=black" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/JosephThuku/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosephThuku&repo=Project2&theme=black" alt="Project 2"/>
-  </a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [GenAI and Blockchain](https://joethuku-254.vercel.app/blog/Blockchain)
+
+<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect with Me
 
