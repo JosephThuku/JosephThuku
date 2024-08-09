@@ -21,7 +21,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently looking for software engineer / DevOps job.
+- 🔭 I’m currently a Software Engineer at Revolution Analytics and an IT student at Mount Kenya University.
+- 💡 Researching Generative AI and Blockchain Technology while developing Elements, a crypto mobile payment app.
 - 💬 Ask me about Backend Development, Blockchain, DevOps, Cybersecurity, and other tech-related ideas.
 - 🏍 How to reach me: [jthuku490@gmail.com](mailto:jthuku490@gmail.com)
 - 🌐 [Check my portfolio](https://joethuku.vercel.app/about "Joe Thuku")
