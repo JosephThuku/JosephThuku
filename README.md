@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <a href="https://github.com/JosephThuku">
-    <img align="center" width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=Back-End+Developer;BlockChain+Developer;Generative+AI+Developer;Technical+Blogger;DevOps+Engineer;Distributed+System+Evangelist" alt="Typing SVG"/>
+    <img align="center" width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=Back-End+Developer;BlockChain+Developer;Generative+AI+Developer;Onchain+Evangelist" alt="Typing SVG"/>
   </a>
 </h2>
 
@@ -19,13 +19,17 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Coding"/>
 </p>
 
-## 👨‍💻 About Me
+## About Me
+Hello! I'm Joseph Thuku, a passionate developer who thrives on innovation and creativity. I enjoy working on projects that challenge me and push the boundaries of technology.
 
-- 🔭 I’m currently a Software Engineer at Revolution Analytics and an IT student at Mount Kenya University.
-- 💡 Researching Generative AI and Blockchain Technology while developing Elements, a crypto mobile payment app.
-- 💬 Ask me about Backend Development, Blockchain, DevOps, Cybersecurity, and other tech-related ideas.
-- 🏍 How to reach me: [jthuku490@gmail.com](mailto:jthuku490@gmail.com)
-- 🌐 [Check my portfolio](https://joethuku.vercel.app/about "Joe Thuku")
+## What I Do
+- 🚀 **Innovator**: Always exploring new technologies and frameworks.
+- 💡 **Creator**: Building projects that solve real-world problems.
+- 🌐 **Blockchain Enthusiast**: I tend to live on the blockchain, constantly learning and contributing to the decentralized world.
+- 🛠 **Problem Solver**: Tackling complex issues with elegant solutions.
+- - 💻 **Backend Developer**: Proficient in Web2&web3 backend technologies, ensuring robust and scalable server-side applications.
+
+
 
 ## 🚀 Skills and Technologies
 
