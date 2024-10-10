@@ -7,7 +7,7 @@
 
 <h2 align="center">
   <a href="https://github.com/JosephThuku">
-    <img align="center" width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=Back-End+Developer;BlockChain+Developer;Generative+AI+Developer;Onchain+Evangelist" alt="Typing SVG"/>
+    <img align="center" width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600&lines=Software+|+Back-End+Engineer;BlockChain+Developer;Onchain+Evangelist" alt="Typing SVG"/>
   </a>
 </h2>
 
