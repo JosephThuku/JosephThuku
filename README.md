@@ -20,7 +20,7 @@
 </p>
 
 ## About Me
-Hello! I'm Joseph Thuku, a passionate developer who thrives on innovation and creativity. I enjoy working on projects that challenge me and push the boundaries of technology.
+Hello! I'm Joseph Thuku, a passionate software Engineer who thrives on innovation and creativity. I enjoy working on projects that challenge me and push the boundaries of technology.
 
 ## What I Do
 - 🚀 **Innovator**: Always exploring new technologies and frameworks.
